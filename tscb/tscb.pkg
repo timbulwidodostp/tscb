@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'tscb': Two-Stage Cluster Bootstrap (OLS regression with Two-Stage Cluster Bootstrap Variance) Use tscb With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f tscb.ado
+f tscb.sthlp
