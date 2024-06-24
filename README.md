@@ -1,6 +1,8 @@
 # tscb
 Two-Stage Cluster Bootstrap (OLS regression with Two-Stage Cluster Bootstrap Variance) Use tscb With STATA 18
 
+https://www.youtube.com/watch?v=2_8OkLjKVow
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
